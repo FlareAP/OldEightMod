@@ -1,0 +1,16 @@
+{
+  "oligei": {
+    "sounds": [
+      "old_eight:oligei1",
+      "old_eight:oligei2",
+      "old_eight:oligei3",
+      "old_eight:oligei4"
+    ]
+  },
+  "yue": {
+    "sounds": [
+      "old_eight:yue1",
+      "old_eight:yue2"
+    ]
+  }
+}

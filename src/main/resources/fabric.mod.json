@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "old_eight",
+  "version": "${version}",
+  "name": "old_eight",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/FlareAP/old_eight"
+  },
+  "license": "I_Don_t_Know",
+  "icon": "assets/old_eight/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.flare.old_eight.Old_eight"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
