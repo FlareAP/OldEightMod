@@ -3,10 +3,10 @@
   "id": "old_eight",
   "version": "${version}",
   "name": "OldEight",
-  "description": "old_eight.description",
+  "description": "I love hikari",
   "authors": [],
   "contact": {
-    "repo": "https://github.com/FlareAP/OldEightMod"
+    "sources": "https://github.com/FlareAP/OldEightMod"
   },
   "license": "I_Don_t_Know",
   "icon": "assets/old_eight/icon.png",
