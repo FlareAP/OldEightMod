@@ -4,6 +4,8 @@
 
 ## Requirements
 
-Minecraft Java Edition 1.19.4
+Minecraft Java Edition 1.19.3
 
-Fabric *
+Fabric Loader *
+
+Fabric API *

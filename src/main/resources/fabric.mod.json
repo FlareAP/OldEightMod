@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "id": "old_eight",
   "version": "${version}",
-  "name": "old_eight",
-  "description": "",
+  "name": "OldEight",
+  "description": "old_eight.description",
   "authors": [],
   "contact": {
-    "repo": "https://github.com/FlareAP/old_eight"
+    "repo": "https://github.com/FlareAP/OldEightMod"
   },
   "license": "I_Don_t_Know",
   "icon": "assets/old_eight/icon.png",
@@ -17,8 +17,8 @@
     ]
   },
   "depends": {
-    "fabricloader": ">=${loader_version}",
+    "fabricloader": "*",
     "fabric": "*",
-    "minecraft": "${minecraft_version}"
+    "minecraft": ">=1.19.3"
   }
 }
