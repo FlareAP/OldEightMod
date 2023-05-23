@@ -3,11 +3,14 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "old_eight:laoba_block"
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
     }
   ],
   "result": {
     "item": "old_eight:laoba",
-    "count": 4
+    "count": 2
   }
 }
