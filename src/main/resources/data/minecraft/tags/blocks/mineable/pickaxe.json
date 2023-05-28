@@ -1,6 +1,7 @@
 {
   "replace": "false",
   "values": [
+    "old_eight:laoba_ore",
     "old_eight:laoba_block"
   ]
 }

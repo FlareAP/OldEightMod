@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
+  "group": "old_eight",
   "ingredients": [
     {
       "item": "old_eight:laoba_block"
     }
   ],
   "result": {
-    "item": "old_eight:laoba",
-    "count": 4
+    "item": "old_eight:laoba"
   }
 }

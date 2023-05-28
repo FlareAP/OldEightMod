@@ -1,8 +1,10 @@
 {
+  "block.old_eight.laoba_block": "便便块",
+  "block.old_eight.laoba_ore": "便便矿",
   "item.old_eight.laoba": "便便",
-  "item.old_eight.laoba.tooltip": "它深情地注视着你",
-  "item.old_eight.laoba.on_use": "奥利给，干啦!",
   "item.old_eight.laoba.after_use": "呕",
+  "item.old_eight.laoba.on_use": "奥利给，干啦!",
   "item.old_eight.laoba.stop_use": "诶，没吃呢",
-  "block.old_eight.laoba_block": "便便块"
+  "item.old_eight.laoba.tooltip": "它深情地注视着你",
+  "itemgroup.old_eight": "老八"
 }

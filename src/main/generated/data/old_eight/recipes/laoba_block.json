@@ -12,5 +12,6 @@
   ],
   "result": {
     "item": "old_eight:laoba_block"
-  }
+  },
+  "show_notification": true
 }

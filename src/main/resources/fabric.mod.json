@@ -13,7 +13,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.flare.old_eight.Old_eight"
+      "com.flare.old_eight.OldEight"
+    ],
+    "fabric-datagen": [
+      "com.flare.old_eight.OldEightDataGenerator"
     ]
   },
   "depends": {

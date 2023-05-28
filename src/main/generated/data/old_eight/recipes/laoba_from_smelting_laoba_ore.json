@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.3,
+  "group": "old_eight",
+  "ingredient": {
+    "item": "old_eight:laoba_ore"
+  },
+  "result": "old_eight:laoba"
+}
