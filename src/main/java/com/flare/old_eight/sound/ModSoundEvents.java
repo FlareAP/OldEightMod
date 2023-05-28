@@ -1,12 +1,12 @@
 package com.flare.old_eight.sound;
 
-import com.flare.old_eight.Old_eight;
+import com.flare.old_eight.OldEight;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.util.Identifier;
 
-import static com.flare.old_eight.Old_eight.MOD_ID;
+import static com.flare.old_eight.OldEight.MOD_ID;
 
 public class ModSoundEvents {
     public static final SoundEvent OLD_EIGHT_OLIGEI = register("oligei");
@@ -18,6 +18,6 @@ public class ModSoundEvents {
     }
 
     public static void registerSoundEvent() {
-        Old_eight.LOGGER.info("Registering mod sound events for " + MOD_ID);
+        OldEight.LOGGER.info("Registering mod sound events for " + MOD_ID);
     }
 }
